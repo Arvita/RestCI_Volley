@@ -1,11 +1,6 @@
-**************
-Tutorial Book
-**************
-Link : https://drive.google.com/open?id=1bNLFfMFKTQ_31QBlSgayxJF3B9ZWzKYl
-
-**************
-Youtube Video
-**************
+************************
+Youtube Video Reference
+************************
 https://www.youtube.com/watch?v=_U5b5sYhvKA
 
 **************
